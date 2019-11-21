@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='UTF-8'>
+    </head>
+    <style>
+    p{
+          font-size:23px;
+          color:red;
+          background-color:black;
+         
+      }
+      body{
+        background-image:url('v.jpg');
+        
+        background-color:black;;
+        position:absolute;
+        overflow:scroll;
+      }
+      #d2{
+          background-color:black;
+      }
+      #d1{
+          background-color:black;
+      }
+      #demo3{
+          background-color:black;
+      }
+    </style>
+    <body onload="toplines()">
+        <script>
+          function toplines()
+         {
+            var xhttpp = new XMLHttpRequest();
+            var data1;
+            var i;
+            xhttpp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                data1=JSON.parse(this.responseText);
+            for(i=0;i<9;i++)
+                {
+           // console.log(dataa.articles[2].author);
+           document.getElementById("demo").innerHTML="Name of author :- ";
+            document.getElementById("d").innerHTML=data1.articles[i].author;
+            document.getElementById("demo1").innerHTML="Title :- ";
+            document.getElementById("d1").innerHTML=data1.articles[i].title;
+            document.getElementById("demo3").innerHTML="Description :- ";
+            document.getElementById("d2").innerHTML=data1.articles[i].description;
+            document.getElementById("demo3").innerHTML="publishedAt :- ";
+            document.getElementById("d2").innerHTML=data1.publishedAt[i].description;
+            document.getElementById("demo3").innerHTML="Content :- ";
+            document.getElementById("d2").innerHTML=data1.content[i].description;
+            }}
+            };
+             xhttpp.open("GET" , "https://newsapi.org/v2/top-headlines?country=us&apiKey=667daafbe8e945849045e973f33a89b3" , true);
+              xhttpp.send();
+         }
+        </script>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p id="demo">  </p>
+        <p id="d"></p>
+        <p id ="demo1"></p>
+        <p id="d1"></p>
+        <p id="demo3"></p>
+        <p id="d2"></p>
+        <p id="demo5"></p>
+        <p id="d3"></p>
+        <p id="demo6"></p>
+        <p id="d5"></p>
+    </body>
+</html>

@@ -1,0 +1,68 @@
+<html>
+    <head>
+      <style>
+      p{
+          font-size:23px;
+          color:black;
+         
+      }
+      body{
+        background-image:url('newspaper.jpg');
+        background-repeat:no-repeat;
+        background-color:whitesmoke;
+        position:absolute;
+        width:60%;
+      }
+      #d2{
+          background-color:whitesmoke;
+      }
+      #d1{
+          background-color:whitesmoke;
+      }
+      #demo3{
+          background-color:whitesmoke;
+      }
+      </style>
+    </head>
+    <body onload="loadXMLDoc() ">
+       <script>
+       
+            function loadXMLDoc() {
+            var xhttp = new XMLHttpRequest();
+            var data;
+            var i;
+            xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+            data=JSON.parse(this.responseText);
+            for(i=0;i<9;i++)
+            {
+            document.getElementById("demo").innerHTML="Name of author :- ";
+            document.getElementById("d").innerHTML=data.articles[i].author;
+            document.getElementById("demo1").innerHTML="Title :- ";
+            document.getElementById("d1").innerHTML=data.articles[i].title;
+            document.getElementById("demo3").innerHTML="Description :- ";
+            document.getElementById("d2").innerHTML=data.articles[i].description;
+            document.getElementById("demo3").innerHTML="publishedAt :- ";
+            document.getElementById("d2").innerHTML=data.articles[i].publishedAt;
+            document.getElementById("demo3").innerHTML="Content :- ";
+            document.getElementById("d2").innerHTML=data.articles[i].content;
+           }
+        }
+         };
+            xhttp.open("GET", "https://newsapi.org/v2/everything?q=bitcoin&sortBy=publishedAt&apiKey=667daafbe8e945849045e973f33a89b3", true);
+            xhttp.send();
+        }
+        
+        </script>
+        <p id="demo">  </p>
+        <p id="d"></p>
+        <p id ="demo1"></p>
+        <p id="d1"></p>
+        <p id="demo3"></p>
+        <p id="d2"></p>
+        <p id="demo5"></p>
+        <p id="d3"></p>
+        <p id="demo6"></p>
+        <p id="d5"></p>
+        </body>
+</html>

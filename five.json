@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Democratic debates live updates: Candidates for 2020 Democrats face off in presidential primary debate in Atlanta today - live updates - CBS News",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9saXZlLW5ld3MvZGVtb2NyYXRpYy1wcmVzaWRlbnRpYWwtZGViYXRlLTIwMTktMTEtMTktYXRsYW50YS1kZWJhdGUtY292ZXJhZ2UtY2FuZGlkYXRlcy1saXZlLXN0cmVhbS11cGRhdGVzL9IBhwFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbGl2ZS1uZXdzL2RlbW9jcmF0aWMtcHJlc2lkZW50aWFsLWRlYmF0ZS0yMDE5LTExLTE5LWF0bGFudGEtZGViYXRlLWNvdmVyYWdlLWNhbmRpZGF0ZXMtbGl2ZS1zdHJlYW0tdXBkYXRlcy8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2019-11-21T02:41:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Dan Balz",
+        "title": "Sondland’s dramatic testimony shakes the impeachment debate and undercuts the president - The Washington Post",
+        "description": "Drawing others into the pressure campaign, the E.U. ambassador puts Republican allies of Trump on the defensive.",
+        "url": "https://www.washingtonpost.com/politics/sondlands-dramatic-testimony-shakes-the-impeachment-debate-and-undercuts-the-president/2019/11/20/451ab25c-0bd1-11ea-8397-a955cd542d00_story.html",
+        "urlToImage": "https://www.washingtonpost.com/resizer/HjPYEj38kvviSHzo8EY7Fk1hyL8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CJTTPUAL2II6VACUFCNO63RYUM.jpg",
+        "publishedAt": "2019-11-21T01:50:00Z",
+        "content": "Sondlands testimony probably accelerates the moves by House Democrats to impeach the president and send the issue to the Senate for adjudication, though at this point the odds of conviction remain long, absent a significant shift in public opinion away from t… [+6664 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Jay Peters",
+        "title": "Steam now lets you invite iOS and Android devices to join PC multiplayer games remotely - The Verge",
+        "description": "Last month, Valve announced a beta of Steam Remote Play Together, which let you play local multiplayer games over the internet with your friends across Windows, Linux, and macOS computers. Today, it’s officially available for everyone, and now iOS and Android…",
+        "url": "https://www.theverge.com/2019/11/20/20975039/steam-remote-play-together-ios-android-devices-beta-chat-link-app-windows-macos-linux",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/JRg6s8s6T5ya7XQwhRUEInbAjdg=/0x131:1820x1084/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16280398/acastro_180509_1777_steam_0001.0.jpg",
+        "publishedAt": "2019-11-21T01:37:33Z",
+        "content": "Steam Remote Play Together is out of beta\r\nIllustration by Alex Castro / The Verge\r\nLast month, Valve announced a beta of Steam Remote Play Together, which let you play local multiplayer games over the internet with your friends across Windows, Linux, and mac… [+1152 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Cheryl Eddy",
+        "title": "It's Beginning to Look a Lot Like...Halloween in FX's Spooky New Take on A Christmas Carol - Gizmodo",
+        "description": "The lyrics for beloved Christmas song “It’s the Most Wonderful Time of the Year” very clearly affirm that “scary ghost stories” are just as much a part of the holiday season as “mistletoeing.” And if FX’s spin on the oft-adapted Dickens classic wants to lean …",
+        "url": "https://io9.gizmodo.com/its-beginning-to-look-a-lot-like-halloween-in-fxs-spo-1839971479",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/nmjzftjkcu3jah5qsrgn.png",
+        "publishedAt": "2019-11-21T01:30:00Z",
+        "content": "The lyrics for beloved Christmas song Its the Most Wonderful Time of the Year very clearly affirm that scary ghost stories are just as much a part of the holiday season as mistletoeing. And if FXs spin on the oft-adapted Dickens classic wants to lean into its… [+519 chars]"
+      },
+      {
+        "source": {
+          "id": "engadget",
+          "name": "Engadget"
+        },
+        "author": "Richard Lawler",
+        "title": "Trump ‘opens’ Texas Apple plant that’s built Mac Pros since 2013 - Engadget",
+        "description": "Apple  contractors have been making Mac Pros in Texas since 2013.",
+        "url": "https://www.engadget.com/2019/11/20/trump-mac-pro-plant/",
+        "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5149%252C3023%252C242%252C173%26quality%3D85%26format%3Djpg%26resize%3D1600%252C940%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-11%252F6e5296d0-0bf9-11ea-b3be-e8b669c17dbb%26client%3Da1acac3e1b3290917d92%26signature%3D5f9c4501c326fd8617f20bfd5503b703cd10047d&client=amp-blogside-v2&signature=8a4f73f3a1e54e47959627a7dc1350d29da8e450",
+        "publishedAt": "2019-11-21T01:05:36Z",
+        "content": "As planned, today Donald Trump took a tour of an Apple manufacturing facility in Texas alongside CEO Tim Cook. While impeachment hearings continued in D.C., the president tweeted that \"Today I opened a major Apple Manufacturing plant in Texas that will bring … [+734 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "U.S. Bill Supporting Hong Kong Rights Heads to Trump’s Desk - The New York Times",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMTEvMjAvYnVzaW5lc3MvaG9uZy1rb25nLWh1bWFuLXJpZ2h0cy1hY3QuaHRtbNIBT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMTkvMTEvMjAvYnVzaW5lc3MvaG9uZy1rb25nLWh1bWFuLXJpZ2h0cy1hY3QuYW1wLmh0bWw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2019-11-21T00:55:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Cuomo's disgraceful silence on the outrages at SUNY Binghamton - New York Post ",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vbnlwb3N0LmNvbS8yMDE5LzExLzIwL2N1b21vcy1kaXNncmFjZWZ1bC1zaWxlbmNlLW9uLXRoZS1vdXRyYWdlcy1hdC1zdW55LWJpbmdoYW10b24v0gFgaHR0cHM6Ly9ueXBvc3QuY29tLzIwMTkvMTEvMjAvY3VvbW9zLWRpc2dyYWNlZnVsLXNpbGVuY2Utb24tdGhlLW91dHJhZ2VzLWF0LXN1bnktYmluZ2hhbXRvbi9hbXAv?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2019-11-21T00:52:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Dailymail.co.uk"
+        },
+        "author": "By Rachel Mcgrath For Dailymail.com",
+        "title": "Kim Kardashian FINALLY congratulates Kylie Jenner on selling stake in cosmetics brand for $600M - Daily Mail",
+        "description": "The news of the deal was announced on Monday and on Wednesday, in an interview with ET ,  Kim said: 'I'm so proud of her.'",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-7708789/Kim-Kardashian-FINALLY-congratulates-Kylie-Jenner-selling-stake-cosmetics-brand-600M.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2019/11/21/00/21273412-0-image-a-15_1574297119125.jpg",
+        "publishedAt": "2019-11-21T00:45:00Z",
+        "content": "Kylie Jenner cut a $600 million deal for a controlling share in her self-titled cosmetics brand.\r\nBut she had to wait three days for her famous sister and rival beauty entrepreneur Kim Kardashian to congratulate her on her massive payday.\r\nThe news of the dea… [+1926 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cnet.com"
+        },
+        "author": "Eric Mack",
+        "title": "SpaceX Starship pressure test blows up Musk's Mars rocket prototype - CNET",
+        "description": "The prototype rocket known as \"Mk1\" suffered an \"anomaly\" in Texas Wednesday.",
+        "url": "https://www.cnet.com/news/spacex-starship-pressure-test-blows-up-musks-mars-rocket-prototype/",
+        "urlToImage": "https://cnet1.cbsistatic.com/img/goGI79maH4e5Yike1EyWRx-v41A=/756x567/2019/11/20/c9916bb9-6983-44fd-a6cb-e7d1486aad4a/starshipbang.jpg",
+        "publishedAt": "2019-11-21T00:22:00Z",
+        "content": "Starship Mk1 experienced a bit of rapid disassembly.\r\nLabPadre/Screenshot by CNET\r\nIt looks as though a little re-assembly may be required on the biggest prototype yet of Elon Musk's Mars Starship. \r\nThe early version of the next generation SpaceX rocket appe… [+1634 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Youtube.com"
+        },
+        "author": null,
+        "title": "NHL Plays Of The Week: Brad Marchand...KING Of Toronto | Steve's Hat-Picks - SPORTSNET",
+        "description": "Steve shares his favourite plays of the week including McDavid notching 6 points against Colorado, Eichel potting 4 vs. Ottawa and Brad Marchand showing off ...",
+        "url": "https://www.youtube.com/watch?v=fifNNXczfDo",
+        "urlToImage": "https://i.ytimg.com/vi/fifNNXczfDo/maxresdefault.jpg",
+        "publishedAt": "2019-11-21T00:00:08Z",
+        "content": "Steve shares his favourite plays of the week including McDavid notching 6 points against Colorado, Eichel potting 4 vs. Ottawa and Brad Marchand showing off in Toronto. \r\n---------------------------------------------- \r\nSubscribe to Sportsnet on YouTube - htt… [+379 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Pregnant Woman Mauled to Death By Pack of Dogs - TooFab",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdG9vZmFiLmNvbS8yMDE5LzExLzIwL3ByZWduYW50LXdvbWFuLW1hdWxlZC10by1kZWF0aC1ieS1wYWNrLW9mLWRvZ3Mv0gFRaHR0cHM6Ly9hbXAudG9vZmFiLmNvbS8yMDE5LzExLzIwL3ByZWduYW50LXdvbWFuLW1hdWxlZC10by1kZWF0aC1ieS1wYWNrLW9mLWRvZ3Mv?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2019-11-20T23:55:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cbssports.com"
+        },
+        "author": "Jamey Eisenberg",
+        "title": "Fantasy Football Week 12 Start 'Em & Sit 'Em: Faith in Matt Ryan, Baker Mayfield, Odell Beckham set to pay off - CBS Sports",
+        "description": "Your faith in some of the biggest names in Fantasy has been tested so far this season, but you'll be rewarded for sticking with them in Week 12, Jamey Eisenberg says.",
+        "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-12-start-em-sit-em-faith-in-matt-ryan-baker-mayfield-odell-beckham-set-to-pay-off/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/11/10/3a9f24fa-eacd-4557-bca0-8b5d7752ae63/thumbnail/1200x675/d4a345a2153a3f2c295b7e6860a0e5df/new-team.jpg",
+        "publishedAt": "2019-11-20T23:29:00Z",
+        "content": "It's hard to be patient during a Fantasy Football season. We always want immediate results, especially with a 13-week schedule in most leagues. But this week, your patience could pay off with two players who have been busts in the majority of leagues thus far… [+2916 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kron4.com"
+        },
+        "author": "The Associated Press",
+        "title": "Charles Barkley apologizes for comment about hitting a woman - KRON4",
+        "description": "Charles Barkley has issued an apology for a comment he made to a female political reporter about hitting her.",
+        "url": "https://www.kron4.com/news/national/charles-barkley-apologizes-for-comment-about-hitting-a-woman/",
+        "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2019/11/Charles-Barkley.jpg?w=800&h=531&crop=1&resize=1280,720",
+        "publishedAt": "2019-11-20T23:29:00Z",
+        "content": "(AP) – Charles Barkley has issued an apology for a comment he made to a female political reporter about hitting her.\r\nAxios reporter Alexi McCammond wrote on Twitter Tuesday night that when she questioned Barkley on his indecisiveness over the Democratic pres… [+507 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox8.com"
+        },
+        "author": "https://www.facebook.com/Fox8NewsCleveland",
+        "title": "FDA: Hepatitis A cases traced to berries sold in multiple states including Ohio - WJW FOX 8 News Cleveland",
+        "description": "LINCOLN, Neb. (AP) — Nebraska and federal health officials say a hepatitis A outbreak that includes Nebraska, Indiana and Wisconsin has been traced to blackberries sold in Fresh Thyme grocery stores.\r\n\nThe Nebraska Department of Health and Human Services says…",
+        "url": "https://fox8.com/2019/11/20/fda-hepatitis-a-cases-traced-to-berries-sold-in-multiple-states-including-ohio/",
+        "urlToImage": "https://localtvwjw.files.wordpress.com/2019/11/jm-industrial-yax_4961.jpg?quality=85&strip=all&w=1200",
+        "publishedAt": "2019-11-20T23:27:00Z",
+        "content": "LINCOLN, Neb. (AP) Nebraska and federal health officials say a hepatitis A outbreak that includes Nebraska, Indiana and Wisconsin has been traced to blackberries sold in Fresh Thyme grocery stores.\r\nThe Nebraska Department of Health and Human Services says in… [+745 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Michael Nedelman, CNN",
+        "title": "E. coli outbreak sickens 17 people in eight states, CDC says - CNN",
+        "description": "Public health officials are investigating an E. coli outbreak that has infected at least 17 people in eight states, the US Centers for Disease Control and Prevention announced Wednesday.",
+        "url": "https://www.cnn.com/2019/11/20/health/ecoli-outbreak-cdc-bn/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/150623193724-ecoli-dangers-explainer-elizabeth-cohen-orig-00000404-super-tease.jpg",
+        "publishedAt": "2019-11-20T23:15:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Aaron Holmes",
+        "title": "Elon Musk says the Tesla 2020 Roadster 'maybe won't need a key at all' - Business Insider",
+        "description": "Drivers of Tesla's next Roadster model might not need a key to start the car, Elon Musk tweeted Wednesday.",
+        "url": "https://www.businessinsider.com/elon-musk-tweets-tesla-roadster-might-not-need-key-2019-11",
+        "urlToImage": "https://image.businessinsider.com/5dd5b0a7fd9db267557c3188?width=1200&format=jpeg",
+        "publishedAt": "2019-11-20T22:55:02Z",
+        "content": "A Tesla fan tweeted at Elon Musk Wednesday with a modest request for the new Tesla Roadster: a socket near the driver meant to hold the key fob.\r\nThe Tesla founder and CEO responded by teasing a feature of the next Roadster: owners \"maybe won't need a key at … [+1030 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Espn.com"
+        },
+        "author": null,
+        "title": "How Mourinho replaced Pochettino: Inside Tottenham's turbulent day - ESPN",
+        "description": "It took 11 hours to end a five-and-a-half year coaching era and begin a new one. Here's why, and how, Tottenham dumped Pochettino for Mourinho.",
+        "url": "https://www.espn.com/soccer/tottenham-hotspur/story/3994589/how-mourinho-replaced-pochettino-inside-tottenhams-turbulent-day",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F1120%2Fr630739_1296x729_16%2D9.jpg",
+        "publishedAt": "2019-11-20T22:47:26Z",
+        "content": "LONDON -- The speed is the most surprising part. In the span of just 11 hours, timed between Tottenham's club statements on Twitter, they went from firing Mauricio Pochettino and unveiling Jose Mourinho as their new manager. After five-and-a-half years under … [+13404 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "What did Pompeo know and when did he know it? - POLITICO",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMTkvMTEvMjAvd2hhdC1kaWQtbWlrZS1wb21wZW8ta25vdy11a3JhaW5lLTA3MjA3MtIBVWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9hbXAvbmV3cy8yMDE5LzExLzIwL3doYXQtZGlkLW1pa2UtcG9tcGVvLWtub3ctdWtyYWluZS0wNzIwNzI?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2019-11-20T22:40:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bgr.com"
+        },
+        "author": "Andy Meek",
+        "title": "More evidence that the Galaxy S11 display will be the first of its kind for Samsung - BGR",
+        "description": "We already noted earlier this month that, come next year, the Galaxy S11 is expected to deliver a fantastic display experience that’s not only better than that of its predecessor, but also un…",
+        "url": "https://bgr.com/2019/11/20/galaxy-s11-leaks-new-samsung-beta-clue-points-to-120hz-display/",
+        "urlToImage": "https://boygeniusreport.files.wordpress.com/2019/11/webp.net-resizeimage-3-2.jpg?quality=98&strip=all",
+        "publishedAt": "2019-11-20T22:33:00Z",
+        "content": "We already noted earlier this month that, come next year, the Galaxy S11 is expected to deliver a fantastic display experience that’s not only better than that of its predecessor, but also unlike anything ever seen up to this point on a Samsung phone. And now… [+1605 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "GM files racketeering lawsuit against Fiat Chrysler, claiming company bribed union for favorable contracts - The Washington Post",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYnVzaW5lc3MvMjAxOS8xMS8yMC9nbS1maWxlcy1yYWNrZXRlZXJpbmctbGF3c3VpdC1hZ2FpbnN0LWZpYXQtY2hyeXNsZXItY2xhaW1pbmctY29tcGFueS1icmliZWQtdW5pb24tZmF2b3JhYmxlLWNvbnRyYWN0cy_SAagBaHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2J1c2luZXNzLzIwMTkvMTEvMjAvZ20tZmlsZXMtcmFja2V0ZWVyaW5nLWxhd3N1aXQtYWdhaW5zdC1maWF0LWNocnlzbGVyLWNsYWltaW5nLWNvbXBhbnktYnJpYmVkLXVuaW9uLWZhdm9yYWJsZS1jb250cmFjdHMvP291dHB1dFR5cGU9YW1w?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2019-11-20T22:25:00Z",
+        "content": null
+      }
+    ]
+  }

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <style>
+      p{
+          font-size:23px;
+          color:red;
+          background-color:whitesmoke;
+         
+      }
+      body{
+        background-image:url('vin.jpg');
+        
+        background-color:rgb(131, 216, 105);;
+        position:absolute;
+        overflow:scroll;
+      }
+      #d2{
+          background-color:red(218, 64, 64);
+      }
+      #d1{
+          background-color:red(44, 148, 78);
+      }
+      #demo3{
+          background-color:red(217, 219, 77);
+      }
+     </style>
+    </head>
+    <body onload="source()">
+     <script>
+       
+     function source(){
+            var xhttp2 = new XMLHttpRequest();
+            var data2;
+            var i;
+            xhttp2.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+               
+            data2=JSON.parse(this.responseText);
+            for(i=0;i<7;i++)
+            {
+              document.getElementById("demo").innerHTML="Name of author :- ";
+            document.getElementById("d").innerHTML=data2.sources[i].author;
+            document.getElementById("demo1").innerHTML="Title :- ";
+            document.getElementById("d1").innerHTML=data2.sources[i].title;
+            document.getElementById("demo3").innerHTML="Description :- ";
+            document.getElementById("d2").innerHTML=data2.sources[i].description;
+            document.getElementById("demo4").innerHTML="Category :- ";
+            document.getElementById("d4").innerHTML=data2.sources[i].category;
+            }
+            }
+            };
+            xhttp2.open("GET" , "https://newsapi.org/v2/sources?apiKey=667daafbe8e945849045e973f33a89b3" , true);
+              xhttp2.send();
+         }
+     
+  </script>
+       
+  <p id="demo">  </p>
+  <p id="d"></p>
+  <p id ="demo1"></p>
+  <p id="d1"></p>
+  <p id="demo3"></p>
+  <p id="d2"></p>
+  <p id="demo4"></p>
+  <p id="d4"></p>
+  </body>
+</html>
