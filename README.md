@@ -13,9 +13,9 @@ https://newsapi.org/v2/everything?q=bitcoin&sortBy=publishedAt&
 https://newsapi.org/v2/top-headlines?country=us&
 https://newsapi.org/v2/sources?
 
-arelink to respective documentation.
+are link to respective documentation.
 
-TEch used:
+Tech used:
 HTML including (DOM)
 CSS
 AJAX
